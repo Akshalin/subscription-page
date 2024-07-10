@@ -1,0 +1,32 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+}
+.section{
+    border: 1px solid black;
+    width:900px;
+    padding: 10px;
+    margin: 30px 200px;
+}
+.container{
+    border: 1px solid rgba(240, 248, 255, 0.411);
+    padding: 30px;
+    background-color: rgba(240, 248, 255, 0.411);
+}
+input,label{
+    margin:10px 0px;
+}
+button{
+    margin-top:30px;
+    padding: 10px 370px;
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    font-size: 15px;
+}
+.box{
+    margin-right: 5px;
+}
